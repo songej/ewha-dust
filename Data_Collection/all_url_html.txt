@@ -1,0 +1,1955 @@
+[[1]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24796312&amp;oid=469&amp;aid=0000181 ...
+
+[[2]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24796317&amp;oid=008&amp;aid=0003797 ...
+
+[[3]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24796316&amp;oid=421&amp;aid=0002477 ...
+
+[[4]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24782485&amp;oid=003&amp;aid=0007625 ...
+
+[[5]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24782263&amp;oid=366&amp;aid=0000351 ...
+
+[[6]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24782262&amp;oid=003&amp;aid=0007623 ...
+
+[[7]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24782269&amp;oid=008&amp;aid=0003782 ...
+
+[[8]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24782266&amp;oid=001&amp;aid=0008860 ...
+
+[[9]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24782265&amp;oid=421&amp;aid=0002424 ...
+
+[[10]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24773680&amp;oid=366&amp;aid=0000349 ...
+
+[[11]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24773677&amp;oid=001&amp;aid=0008819 ...
+
+[[12]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24773681&amp;oid=008&amp;aid=0003772 ...
+
+[[13]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24773678&amp;oid=277&amp;aid=0003869 ...
+
+[[14]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24757237&amp;oid=437&amp;aid=0000133 ...
+
+[[15]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24757219&amp;oid=437&amp;aid=0000133 ...
+
+[[16]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24751795&amp;oid=056&amp;aid=0010367 ...
+
+[[17]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24747201&amp;oid=366&amp;aid=0000342 ...
+
+[[18]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24746302&amp;oid=214&amp;aid=0000671 ...
+
+[[19]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24743713&amp;oid=008&amp;aid=0003739 ...
+
+[[20]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn;jsessionid=BD2F32887A4A4ECC48FEDE7FA26103EA?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24796314&amp;oid=056&amp;aid=0010359 ...
+
+[[21]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24796315&amp;oid=057&amp;aid=0001016604&amp;ptype=021">자취 감췄던 미세먼지 온다…G20 폐막에 중국 ...
+
+[[22]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24735496&amp;oid=056&amp;aid=0010353219&amp;ptype=021">말뿐인 '경유차 폐차 지원'…예산 바닥·접수  ...
+
+[[23]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24735494&amp;oid=056&amp;aid=0010353216&amp;ptype=021">"명품 소나무 숲에서 치유하세요"</a>
+
+[[24]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24734519&amp;oid=055&amp;aid=0000442645&amp;ptype=021">[취재파일] "노후 경유차 폐차해라"…"지원  ...
+
+[[25]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24731484&amp;oid=001&amp;aid=0008598059&amp;ptype=021">오래된 건설기계 3천600대에 매연저감장치 단 ...
+
+[[26]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24729725&amp;oid=003&amp;aid=0007388160&amp;ptype=021">내년부터 2.5톤 이상 노후 경유차 서울시 못 ...
+
+[[27]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24729721&amp;oid=018&amp;aid=0003602021&amp;ptype=021">2.5톤 미만 노후 경유차도 수도권 운행제한… ...
+
+[[28]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24729727&amp;oid=001&amp;aid=0008585739&amp;ptype=021">노후경유차 내년부터 서울서 운행 제한…인천·경 ...
+
+[[29]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24729723&amp;oid=008&amp;aid=0003721776&amp;ptype=021">'年 7~10만대' 노후경유차, 내년부터 서울 ...
+
+[[30]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24729729&amp;oid=018&amp;aid=0003601913&amp;ptype=021">'서울 미세먼지 주범' 경유 관광버스 CNG버 ...
+
+[[31]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24729731&amp;oid=001&amp;aid=0008585431&amp;ptype=021">서울시, 관광·마을버스도 'CNG버스'로 사면 ...
+
+[[32]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24726989&amp;oid=001&amp;aid=0008569103&amp;ptype=021">노후 경유차 서울에 못 다닌다…2019년까지  ...
+
+[[33]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24726893&amp;oid=003&amp;aid=0007373513&amp;ptype=021">서울시, 경기·인천 경유버스 1535대 '저공 ...
+
+[[34]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24726879&amp;oid=018&amp;aid=0003596279&amp;ptype=021">서울시 "내달부터 미세먼지 예·경보 25개 자 ...
+
+[[35]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24726882&amp;oid=001&amp;aid=0008568442&amp;ptype=021">노후 경유차 서울에 못 다닌다…2019년까지  ...
+
+[[36]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24726877&amp;oid=277&amp;aid=0003796161&amp;ptype=021">서울시 초미세먼지 75% 서울 외 지역 발생… ...
+
+[[37]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24726875&amp;oid=421&amp;aid=0002189643&amp;ptype=021">서울시, 2.5톤 이상 노후 경유차 전량 단속 ...
+
+[[38]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24724347&amp;oid=437&amp;aid=0000125904&amp;ptype=021">차량 통행 늘어 이전?…미국 절반이 '고농도  ...
+
+[[39]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24724346&amp;oid=437&amp;aid=0000125903&amp;ptype=021">[단독] 대기질 좋은 곳으로 이사한 '미세먼지 ...
+
+[[40]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24720805&amp;oid=001&amp;aid=0008536896&amp;ptype=021">'화력발전소 주변 집안 공기는 깨끗할까'…충남 ...
+
+[[41]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24720037&amp;oid=214&amp;aid=0000642492&amp;ptype=021">미세먼지 사각지대 있었다, 지하철역 70%가  ...
+
+[[42]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24719933&amp;oid=214&amp;aid=0000642404&amp;ptype=021">[현장M출동] 미세먼지 '지옥' 서울 지하철역 ...
+
+[[43]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24719158&amp;oid=001&amp;aid=0008527374&amp;ptype=021">"지붕서 시꺼먼 빗물이 흐르는데 미세먼지는 오 ...
+
+[[44]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24718794&amp;oid=047&amp;aid=0002120549&amp;ptype=021">정부 '석탄 화력발전 대책'… "여전히 미흡" ...
+
+[[45]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24718698&amp;oid=032&amp;aid=0002712390&amp;ptype=021">전국 화력발전소 절반 밀집한 충남 "숨막혀 죽 ...
+
+[[46]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24718671&amp;oid=437&amp;aid=0000124386&amp;ptype=021">'30년 묵은' 석탄화력발전소 폐지, 조금만  ...
+
+[[47]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24718665&amp;oid=055&amp;aid=0000427507&amp;ptype=021">'미세먼지 주범' 오래된 석탄발전소, 사라진다 ...
+
+[[48]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24718518&amp;oid=001&amp;aid=0008522687&amp;ptype=021">갈수록 대기오염 '심각'…벤젠 등 1급 발암물 ...
+
+[[49]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24718422&amp;oid=011&amp;aid=0002852025&amp;ptype=021">30년 넘은 석탄발전소 폐지하면 미세먼지 얼마 ...
+
+[[50]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24718387&amp;oid=001&amp;aid=0008521778&amp;ptype=021">석탄발전소 배출 미세먼지 2030년까지 24% ...
+
+[[51]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24718388&amp;oid=001&amp;aid=0008521615&amp;ptype=021">30년 넘은 석탄발전소 10기 폐지…"미세먼지 ...
+
+[[52]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24717026&amp;oid=079&amp;aid=0002846170&amp;ptype=021">미세먼지 세부계획, '발표 →연기→발표'…혼선 ...
+
+[[53]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24717031&amp;oid=081&amp;aid=0002734097&amp;ptype=021">미세먼지 해결 5조 투입… 시행은 다음 정부서 ...
+
+[[54]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24717028&amp;oid=081&amp;aid=0002734094&amp;ptype=021">뿌연 하늘 "쿨럭 쿨럭"… 세 집 건너 한 집 ...
+
+[[55]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24717030&amp;oid=008&amp;aid=0003705106&amp;ptype=021">[현장+]참을 수 없는 '미세먼지' 대책의 가 ...
+
+[[56]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716954&amp;oid=056&amp;aid=0010334596&amp;ptype=021">'미세먼지 대책'에 5조 투입…"친환경車 보급 ...
+
+[[57]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716955&amp;oid=056&amp;aid=0010334595&amp;ptype=021">"석탄발전 비중 축소…전력계획도 변경"</a>
+
+[[58]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716908&amp;oid=437&amp;aid=0000123891&amp;ptype=021">정부, 미세먼지 해결 5조 원 투입…조율 없이 ...
+
+[[59]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716902&amp;oid=469&amp;aid=0000151175&amp;ptype=021">미세먼지 절감에 5조원 투자 세부 대책 발표했 ...
+
+[[60]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716948&amp;oid=011&amp;aid=0002850216&amp;ptype=021">부처간 입장 조율할 컨트롤타워 없어…인상 안한 ...
+
+[[61]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716975&amp;oid=022&amp;aid=0003071882&amp;ptype=021">정부 미세먼지 대책 세부이행계획 '속빈 강정' ...
+
+[[62]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716930&amp;oid=011&amp;aid=0002850027&amp;ptype=021">알맹이  쏙 빠진 미세먼지 대책</a>
+
+[[63]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716749&amp;oid=003&amp;aid=0007324301&amp;ptype=021">정부 미세먼지 관리 세부계획 '요란한 빈수레' ...
+
+[[64]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716733&amp;oid=001&amp;aid=0008512414&amp;ptype=021">정부 "미세먼지 관리에 5조원 투입"…브리핑  ...
+
+[[65]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716750&amp;oid=018&amp;aid=0003577410&amp;ptype=021">경유값 인상 없다더니 검토로 선회…방향 잃은  ...
+
+[[66]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716751&amp;oid=028&amp;aid=0002323852&amp;ptype=021">대통령 레임덕 시작됐나…특단 지시 안먹히는 미 ...
+
+[[67]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716773&amp;oid=001&amp;aid=0008512389&amp;ptype=021">구체성 부족한 '미세먼지 세부이행계획'</a>
+
+[[68]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716768&amp;oid=016&amp;aid=0001076960&amp;ptype=021">휘발유값 대비 85% 경유값 손본다는데…얼마나 ...
+
+[[69]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716675&amp;oid=001&amp;aid=0008512132&amp;ptype=021">미세먼지 해결 5조원 투입…노후 경유차 교체시 ...
+
+[[70]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716662&amp;oid=003&amp;aid=0007323814&amp;ptype=021">미세먼지 관리에 총 5조원 투입…노후 경유차  ...
+
+[[71]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716660&amp;oid=421&amp;aid=0002142383&amp;ptype=021">정부, 친환경차 보급·노후경유차 폐차 5조원  ...
+
+[[72]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716665&amp;oid=056&amp;aid=0010334331&amp;ptype=021">친환경차 보급에 3조 투자…미세먼지 이행계획  ...
+
+[[73]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716661&amp;oid=016&amp;aid=0001076841&amp;ptype=021">휘발유, 경유값 상대가격 조정 방안 7월 중  ...
+
+[[74]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716659&amp;oid=005&amp;aid=0000914374&amp;ptype=021">노후 경유차 폐차하고 새 경유차 구입하면 개소 ...
+
+[[75]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716664&amp;oid=001&amp;aid=0008511917&amp;ptype=021">노후 경유차 폐차후 신차 구매시 개별소비세 7 ...
+
+[[76]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716474&amp;oid=001&amp;aid=0008510933&amp;ptype=021">"내년 리콜 미이행 디젤차 운행 못한다"…노후 ...
+
+[[77]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716085&amp;oid=437&amp;aid=0000123615&amp;ptype=021">업계 반발에…시작부터 후퇴만 하는 '설탕과의  ...
+
+[[78]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716083&amp;oid=052&amp;aid=0000867106&amp;ptype=021">노후 경유차 수도권 운행금지 된다는데…예외 기 ...
+
+[[79]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24716087&amp;oid=421&amp;aid=0002136667&amp;ptype=021">노후경유차 수도권 진입 못한다…환경부-3개 지 ...
+
+[[80]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24715598&amp;oid=028&amp;aid=0002323447&amp;ptype=021">공장 미세먼지 기준 아예 없었다</a>
+
+[[81]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24715550&amp;oid=015&amp;aid=0003616690&amp;ptype=021">정부, 미세먼지 줄인다더니…친환경 LNG발전  ...
+
+[[82]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24715479&amp;oid=366&amp;aid=0000332629&amp;ptype=021">[미세먼지 재앙]⑧ "천연가스 버스가 디젤 버 ...
+
+[[83]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24714961&amp;oid=001&amp;aid=0008500442&amp;ptype=021">윤성규 "강력한 미세먼지 대책 추진했어야…반성 ...
+
+[[84]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24714653&amp;oid=032&amp;aid=0002709544&amp;ptype=021">미세먼지 노출 줄이기, 생활 속에 '답' 있다 ...
+
+[[85]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24714566&amp;oid=018&amp;aid=0003573082&amp;ptype=021">[르포]석탄화력 미세먼지 '깜깜이대책'..민심 ...
+
+[[86]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24714570&amp;oid=469&amp;aid=0000150089&amp;ptype=021">"고노동 미세먼지를 잡아라"… 인천시 2020 ...
+
+[[87]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24713046&amp;oid=437&amp;aid=0000123011&amp;ptype=021">[팩트체크] 미세먼지, 건강한 사람은 괜찮다? ...
+
+[[88]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24713037&amp;oid=056&amp;aid=0010331535&amp;ptype=021">[집중진단] ① "풍력 발전 단가 석탄보다 싸 ...
+
+[[89]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24713038&amp;oid=056&amp;aid=0010331534&amp;ptype=021">[집중진단] ② 정부 되레 '화력발전 추가'… ...
+
+[[90]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24712967&amp;oid=421&amp;aid=0002128411&amp;ptype=021">박원순 시장 "수도권 경유버스 서울진입 긴밀히 ...
+
+[[91]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24712524&amp;oid=009&amp;aid=0003754652&amp;ptype=021">2007년 호흡기질환 유발 입증하고도 허송세월 ...
+
+[[92]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24712212&amp;oid=448&amp;aid=0000168772&amp;ptype=021">NASA와 대기질 조사 완료…내년 6월 미세먼 ...
+
+[[93]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24712193&amp;oid=081&amp;aid=0002730703&amp;ptype=021">한·미 대기질 조사 결과 내년 6월 공개</a>
+
+[[94]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24711929&amp;oid=003&amp;aid=0007301870&amp;ptype=021">러시아 산불도 국내 미세먼지 농도 증가에 영향 ...
+
+[[95]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24711926&amp;oid=001&amp;aid=0008486246&amp;ptype=021">러시아 산불이 한반도 초미세먼지 농도에 영향</a>
+
+[[96]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24711851&amp;oid=437&amp;aid=0000122651&amp;ptype=021">"미세먼지 발표 수치 믿어도 되나?"…'셀프  ...
+
+[[97]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24711712&amp;oid=437&amp;aid=0000122543&amp;ptype=021">미세먼지 수치 불신…"숨쉬기가 무섭다" 뿔난  ...
+
+[[98]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24711463&amp;oid=020&amp;aid=0002981410&amp;ptype=021">'미세먼지 최악' 인천남구 - 포천 - 평택</a>
+
+[[99]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24711466&amp;oid=020&amp;aid=0002981401&amp;ptype=021">같은 區서도 2배差… 트럭수 따라 '미세먼지  ...
+
+[[100]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24711465&amp;oid=020&amp;aid=0002981402&amp;ptype=021">서해안 화력발전소서 나온 미세먼지, 북서풍 영 ...
+
+[[101]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24711464&amp;oid=020&amp;aid=0002981405&amp;ptype=021">원주 포항 익산 청주… 산업단지 있는 곳 공기 ...
+
+[[102]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24711113&amp;oid=032&amp;aid=0002707622&amp;ptype=021">'고등어를 위한 변명'…진짜 '미세먼지' 문제 ...
+
+[[103]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24710524&amp;oid=437&amp;aid=0000122144&amp;ptype=021">아이들 눈높이에서 본 미세먼지 "아랫공기는 달 ...
+
+[[104]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24710359&amp;oid=011&amp;aid=0002843116&amp;ptype=021">뒤늦게 미세먼지 대책 세부안 내겠다는 정부</a>
+
+[[105]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24710332&amp;oid=031&amp;aid=0000378728&amp;ptype=021">미세먼지 잡는다 …범부처 연구기획위 구성</a>
+
+[[106]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24710356&amp;oid=018&amp;aid=0003566117&amp;ptype=021">"미세먼지, 빅데이터로 예측 높인다..범정부  ...
+
+[[107]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24710334&amp;oid=277&amp;aid=0003768282&amp;ptype=021">미세먼지…원인·분석·대응에 나선다</a>
+
+[[108]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24710333&amp;oid=008&amp;aid=0003696596&amp;ptype=021">미세먼지 'AI·빅데이터'로 측정한다</a>
+
+[[109]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24710331&amp;oid=001&amp;aid=0008476424&amp;ptype=021">정부, 9월까지 미세먼지 대응 기술 세부 계획 ...
+
+[[110]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24710091&amp;oid=037&amp;aid=0000021918&amp;ptype=021">[커버스토리 | 미세먼지 깜짝쇼] 말 따로 행 ...
+
+[[111]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24710093&amp;oid=037&amp;aid=0000021917&amp;ptype=021">[커버스토리 | 미세먼지 깜짝쇼] 미세먼지 진 ...
+
+[[112]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24710092&amp;oid=037&amp;aid=0000021916&amp;ptype=021">[커버스토리 | 미세먼지 깜짝쇼] 고등어는 누 ...
+
+[[113]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709763&amp;oid=469&amp;aid=0000148324&amp;ptype=021">곱창구이 미세먼지 배출량, 오리고기의 30배</a>
+
+[[114]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709708&amp;oid=081&amp;aid=0002728430&amp;ptype=021">쏟아지는 지자체 미세먼지 저감 대책</a>
+
+[[115]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709768&amp;oid=022&amp;aid=0003065823&amp;ptype=021">미세먼지 실시간 측정차량 내달부터 운행</a>
+
+[[116]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709679&amp;oid=437&amp;aid=0000121888&amp;ptype=021">[밀착카메라] '미세먼지 나 몰라라' 공회전  ...
+
+[[117]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709710&amp;oid=001&amp;aid=0008472209&amp;ptype=021">박원순 "실내 대기 질 기준↑…새 전동차에 먼 ...
+
+[[118]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709714&amp;oid=032&amp;aid=0002706525&amp;ptype=021">화력발전소 위치 충남 지자체 "더는 못 참겠다 ...
+
+[[119]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709721&amp;oid=011&amp;aid=0002841907&amp;ptype=021">"대기오염 막자" …경기도 119곳 굴뚝자동시 ...
+
+[[120]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709415&amp;oid=366&amp;aid=0000330870&amp;ptype=021">[미세먼지 재앙]⑥ 정부, 수요·공급·명분 없 ...
+
+[[121]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709401&amp;oid=055&amp;aid=0000418914&amp;ptype=021">[취재파일] 귀 막고 입 다물더니…알맹이 빠진 ...
+
+[[122]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709245&amp;oid=032&amp;aid=0002706395&amp;ptype=021">더 작고 더 위험한 '나노미세먼지' 대책 안  ...
+
+[[123]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708984&amp;oid=003&amp;aid=0007285446&amp;ptype=021">미세먼지 농도 가장 높은 경기도…'초미세먼지  ...
+
+[[124]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708754&amp;oid=001&amp;aid=0008466000&amp;ptype=021">지구촌 곳곳서 미세먼지와의 전쟁…경유차 규제  ...
+
+[[125]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708725&amp;oid=003&amp;aid=0007284183&amp;ptype=021">지난 3년 농도 차이 없는데…올해 심각성 급부 ...
+
+[[126]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708729&amp;oid=003&amp;aid=0007284184&amp;ptype=021">벌금 무려 1억7천만원까지…외국엔 강력 대책  ...
+
+[[127]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708726&amp;oid=003&amp;aid=0007284185&amp;ptype=021">10년내 파리·런던 수준으로 낮춘다고?…효과  ...
+
+[[128]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708728&amp;oid=003&amp;aid=0007284182&amp;ptype=021">"정부 대책만 의존할 수 없다"…생활속 실천  ...
+
+[[129]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708724&amp;oid=003&amp;aid=0007284180&amp;ptype=021">석탄 화력발전소 주범 지목…"고등어 논란은 해 ...
+
+[[130]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708723&amp;oid=003&amp;aid=0007284179&amp;ptype=021">실제 해로운 것은 초미세먼지…실내도 위험하다</a>
+
+[[131]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708602&amp;oid=016&amp;aid=0001065636&amp;ptype=021">[주말 위협, 유명무실 미세먼지法 ②] '대기 ...
+
+[[132]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708601&amp;oid=016&amp;aid=0001065640&amp;ptype=021">[주말 위협, 유명무실 미세먼지法 ①] 2시간 ...
+
+[[133]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708542&amp;oid=020&amp;aid=0002979453&amp;ptype=021">"한국 이대로 가면… 2060년 대기오염 사망 ...
+
+[[134]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708513&amp;oid=056&amp;aid=0010326871&amp;ptype=021">NASA 비행 종료…한반도 오염원은?</a>
+
+[[135]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708192&amp;oid=001&amp;aid=0008463037&amp;ptype=021">[단독]"한국 2060년 대기오염 원인 조기  ...
+
+[[136]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24708156&amp;oid=055&amp;aid=0000417374&amp;ptype=021">법 비웃는 화력발전소…"황산화물 126톤 뿜었 ...
+
+[[137]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707963&amp;oid=001&amp;aid=0008460927&amp;ptype=021">서울시민 아이디어로 미세먼지 줄여요…10가지  ...
+
+[[138]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707933&amp;oid=055&amp;aid=0000417166&amp;ptype=021">[한수진의 SBS 전망대] 미세먼지 대책, 밑 ...
+
+[[139]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707944&amp;oid=214&amp;aid=0000625907&amp;ptype=021">[시선집중] 윤성규 "경유·휘발유 가격 조정  ...
+
+[[140]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707893&amp;oid=056&amp;aid=0010326163&amp;ptype=021">NASA, 석탄화력·정유시설이 미세먼지 유발  ...
+
+[[141]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707884&amp;oid=214&amp;aid=0000625766&amp;ptype=021">농촌 '불법소각', 미세먼지 발생 원인? 관리 ...
+
+[[142]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707821&amp;oid=025&amp;aid=0002622546&amp;ptype=021">[건강한 목요일] "고등어 구울 때 미세먼지는 ...
+
+[[143]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707798&amp;oid=437&amp;aid=0000121219&amp;ptype=021">[단독] 환경부, 미세먼지 측정장비 없이 배출 ...
+
+[[144]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707778&amp;oid=055&amp;aid=0000416973&amp;ptype=021">NASA, 대기오염 조사…충남, 서울보다 심각 ...
+
+[[145]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707768&amp;oid=022&amp;aid=0003063591&amp;ptype=021">석탄화력발전소 밀집지 아황산가스 '서울의 2배 ...
+
+[[146]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707695&amp;oid=366&amp;aid=0000330155&amp;ptype=021">중국발 미세먼지 과학적 데이터 없어…NASA  ...
+
+[[147]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709716&amp;oid=021&amp;aid=0002277726&amp;ptype=021">火電 많은 충남  "특별대책지역 지정해달라"</a>
+
+[[148]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24709712&amp;oid=021&amp;aid=0002277641&amp;ptype=021">부산, 먼지제거 차량 도입… 대구, 경유車 1 ...
+
+[[149]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707599&amp;oid=001&amp;aid=0008457912&amp;ptype=021">충남 화력발전소 밀집지역 2차 미세먼지, 서울 ...
+
+[[150]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707585&amp;oid=001&amp;aid=0008457737&amp;ptype=021">'미세먼지와의 전쟁' 영국 교통장관 경유세 인 ...
+
+[[151]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707571&amp;oid=437&amp;aid=0000121164&amp;ptype=021">유해물질 피해 심각한데…화력발전소 더 짓겠다는 ...
+
+[[152]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707566&amp;oid=016&amp;aid=0001063569&amp;ptype=021">[미세먼지가 낳은 불신시대 ③] '투명' 위험 ...
+
+[[153]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707565&amp;oid=016&amp;aid=0001063567&amp;ptype=021">[미세먼지가 낳은 불신시대 ①] "국내 예보  ...
+
+[[154]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707572&amp;oid=016&amp;aid=0001063563&amp;ptype=021">[미세먼지가 낳은 불신시대] 선진국은 주민이  ...
+
+[[155]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707558&amp;oid=437&amp;aid=0000121163&amp;ptype=021">바람 타고 수도권까지…화력발전소발 미세먼지 실 ...
+
+[[156]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707559&amp;oid=437&amp;aid=0000121162&amp;ptype=021">경유 이어 가솔린까지?…환경부, 미세먼지 배출 ...
+
+[[157]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707544&amp;oid=001&amp;aid=0008457224&amp;ptype=021">도심 터널 내부는 미세먼지 '범벅'…창문 꼭  ...
+
+[[158]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707479&amp;oid=025&amp;aid=0002622355&amp;ptype=021">내가 미세먼지 주범? 고등어는 억울하다</a>
+
+[[159]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707480&amp;oid=025&amp;aid=0002622302&amp;ptype=021">"석탄 화력발전소 이젠 안돼" 충남도, 미세먼 ...
+
+[[160]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707451&amp;oid=437&amp;aid=0000121070&amp;ptype=021">[팩트체크] 미세먼지 주범?…누가 '고등어'를 ...
+
+[[161]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707442&amp;oid=437&amp;aid=0000121055&amp;ptype=021">위기 상황에도…석탄화력발전소 더 짓겠다는 정부 ...
+
+[[162]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707439&amp;oid=437&amp;aid=0000121054&amp;ptype=021">수도권까지 숨통 죄는 석탄화력발전소 실태</a>
+
+[[163]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707430&amp;oid=437&amp;aid=0000121034&amp;ptype=021">환경부, 디젤 이어 말 많은 가솔린 엔진도 ' ...
+
+[[164]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707431&amp;oid=214&amp;aid=0000625284&amp;ptype=021">배출기준 수천 배 내뿜는데 오토바이는 단속 제 ...
+
+[[165]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707325&amp;oid=003&amp;aid=0007275457&amp;ptype=021">환경단체 "정부 미세먼지 신규대책, 새로운 것 ...
+
+[[166]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707280&amp;oid=021&amp;aid=0002277533&amp;ptype=021">윤성규 환경부장관 "미세먼지 대책 기대 미흡  ...
+
+[[167]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707279&amp;oid=021&amp;aid=0002277534&amp;ptype=021">노후 경유차 제한·석탄發電 폐쇄… 구체적 이행 ...
+
+[[168]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707247&amp;oid=001&amp;aid=0008455453&amp;ptype=021">충남도 화력발전소 주변 특별대책지역 지정 건의 ...
+
+[[169]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707213&amp;oid=001&amp;aid=0008455280&amp;ptype=021">미세먼지 사이트 따라 배 이상 차이 "뭘 믿어 ...
+
+[[170]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707200&amp;oid=003&amp;aid=0007274412&amp;ptype=021">경찰, 노후 버스 90여대에 매연 저감장치…미 ...
+
+[[171]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707151&amp;oid=001&amp;aid=0008454608&amp;ptype=021">소풍날 소녀 소망 바뀌었다…'비 안왔으면'→' ...
+
+[[172]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707113&amp;oid=081&amp;aid=0002725790&amp;ptype=021">[단독] 전세·시외·고속 빼니… 경유버스 6만 ...
+
+[[173]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707105&amp;oid=020&amp;aid=0002978161&amp;ptype=021">[단독]경찰버스 공회전 줄여 미세먼지 막는다</a>
+
+[[174]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707110&amp;oid=020&amp;aid=0002978104&amp;ptype=021">[단독]태양광 발전비용 4년새 절반 뚝… 석탄 ...
+
+[[175]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707108&amp;oid=020&amp;aid=0002978102&amp;ptype=021">[단독]휘발유 대비 경유 가격 한국, OECD ...
+
+[[176]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707107&amp;oid=020&amp;aid=0002978106&amp;ptype=021">[단독]경유차 수요 줄이는 데 초점… 기존차량 ...
+
+[[177]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707118&amp;oid=025&amp;aid=0002622096&amp;ptype=021">백령도 미세먼지, 경유차 다니는 서울시청 주변 ...
+
+[[178]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707095&amp;oid=005&amp;aid=0000906239&amp;ptype=021">"정부 못 믿어요" 미세먼지, 스스로 '행동' ...
+
+[[179]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707072&amp;oid=032&amp;aid=0002704695&amp;ptype=021">고등어, 14일 만에 미세먼지 주범 '누명'  ...
+
+[[180]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707058&amp;oid=437&amp;aid=0000120910&amp;ptype=021">"2차 오염물질 상당" 결과 나오기 전 대책  ...
+
+[[181]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707057&amp;oid=437&amp;aid=0000120909&amp;ptype=021">NASA도 깜짝 놀란 한국 공기 "오염 위험  ...
+
+[[182]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24707010&amp;oid=005&amp;aid=0000906108&amp;ptype=021">[세태기획] 정부 대책에 '뿔난' 엄마들  ' ...
+
+[[183]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706965&amp;oid=028&amp;aid=0002320796&amp;ptype=021">"'고등어 미세먼지 주범'은 오해"…환경부,  ...
+
+[[184]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706893&amp;oid=001&amp;aid=0008453306&amp;ptype=021">'미세먼지 주의보'엔 서울시 주최 야외행사 중 ...
+
+[[185]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706896&amp;oid=277&amp;aid=0003761069&amp;ptype=021">'10년 후 미세먼지' 유럽 수준?…"중국 손 ...
+
+[[186]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706865&amp;oid=469&amp;aid=0000146693&amp;ptype=021">미세먼지, 제대로 된 통계가 없다</a>
+
+[[187]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706828&amp;oid=081&amp;aid=0002725496&amp;ptype=021">'미세먼지 맞춤치료' 개발한다고? '뜬구름 대 ...
+
+[[188]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706829&amp;oid=081&amp;aid=0002725483&amp;ptype=021">미세먼지 '체감 따로 경보 따로'</a>
+
+[[189]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706826&amp;oid=020&amp;aid=0002977955&amp;ptype=021">'고농도 미세먼지' 잦아 걱정인데… 年평균치  ...
+
+[[190]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706797&amp;oid=028&amp;aid=0002320752&amp;ptype=021">친환경차 보험료 인하는 탁상공론?</a>
+
+[[191]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706697&amp;oid=277&amp;aid=0003760869&amp;ptype=021">[경유차의 항변 ②]미세먼지 문제가 경유차?  ...
+
+[[192]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706696&amp;oid=277&amp;aid=0003760871&amp;ptype=021">[경유차의 항변 ③] '갈팡질팡' 정부 정책… ...
+
+[[193]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706695&amp;oid=277&amp;aid=0003760867&amp;ptype=021">[경유차의 항변 ①] 경유차 때리기…가솔린차는 ...
+
+[[194]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706630&amp;oid=056&amp;aid=0010324803&amp;ptype=021">질소산화물 검사, '주범' 경유차는 '제외'</a>
+
+[[195]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706542&amp;oid=016&amp;aid=0001062094&amp;ptype=021">경유차, 친환경차로 대체…구체적 방안은 여전히 ...
+
+[[196]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706541&amp;oid=016&amp;aid=0001062095&amp;ptype=021">노후 석탄발전소 폐기…수도권 총량제 대상 확대 ...
+
+[[197]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706543&amp;oid=016&amp;aid=0001062092&amp;ptype=021">서민경제 감안해 중장기적 논의, 공청회부터…인 ...
+
+[[198]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706544&amp;oid=016&amp;aid=0001062087&amp;ptype=021">도로먼지 제거, 건설공사장 내 방진막 설치 확 ...
+
+[[199]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706545&amp;oid=001&amp;aid=0008451045&amp;ptype=021">인천도 경유버스→CNG버스 전량 교체…보조금  ...
+
+[[200]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706492&amp;oid=001&amp;aid=0008450987&amp;ptype=021">미세먼지 국내 발생원은?…정부-해외연구 결과  ...
+
+[[201]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706493&amp;oid=079&amp;aid=0002837007&amp;ptype=021">"미세먼지 만큼 뿌연 미세먼지 대책".. 재탕 ...
+
+[[202]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706491&amp;oid=005&amp;aid=0000905599&amp;ptype=021">'미세먼지 관리 대책' 들여다보니… '알맹이' ...
+
+[[203]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706546&amp;oid=081&amp;aid=0002725204&amp;ptype=021">국산차 "친환경차 보급 앞당길 것"…'디젤'  ...
+
+[[204]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706500&amp;oid=020&amp;aid=0002977795&amp;ptype=021">갑갑한 공기, 답답한 정부</a>
+
+[[205]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706548&amp;oid=020&amp;aid=0002977783&amp;ptype=021">미세먼지 불안한데… 궁금증 Q&amp;A</a>
+
+[[206]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706549&amp;oid=020&amp;aid=0002977779&amp;ptype=021">베이징 맞아? 확 달라진 中 하늘 비결은…</a>
+
+[[207]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706464&amp;oid=032&amp;aid=0002704292&amp;ptype=021">경유차 '클린디젤' 부추긴 정부, 이젠 '친환 ...
+
+[[208]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706465&amp;oid=032&amp;aid=0002704291&amp;ptype=021">서울 대기오염 주원인은 '비산먼지' 전국적으론 ...
+
+[[209]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706443&amp;oid=056&amp;aid=0010324583&amp;ptype=021">미세먼지 대책…"노후 경유차 폐차 유도"</a>
+
+[[210]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706431&amp;oid=448&amp;aid=0000166895&amp;ptype=021">보령 화력발전소 주변 옥상 '검은 먼지' 가득 ...
+
+[[211]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706433&amp;oid=448&amp;aid=0000166894&amp;ptype=021">[판 포커스] 알맹이 빠진 미세먼지 대책</a>
+
+[[212]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706434&amp;oid=448&amp;aid=0000166893&amp;ptype=021">[판 포커스] 미세먼지 대책 발표…경유차·화력 ...
+
+[[213]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706413&amp;oid=469&amp;aid=0000146521&amp;ptype=021">수도권 외 지역 공장ㆍ건설기계ㆍ농기구… 대량  ...
+
+[[214]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706414&amp;oid=437&amp;aid=0000120701&amp;ptype=021">'낡은 트럭 수도권 진입 금지'…정부 대책,  ...
+
+[[215]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706456&amp;oid=055&amp;aid=0000415658&amp;ptype=021">"창문 못 열어요" 고통…화력발전소 줄인다</a>
+
+[[216]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706417&amp;oid=028&amp;aid=0002320656&amp;ptype=021">자동차·화력발전 근본대책 쏙 빼고…다음 정권  ...
+
+[[217]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706415&amp;oid=055&amp;aid=0000415657&amp;ptype=021">주범은 경유차·공장인데…알맹이 빠진 대책</a>
+
+[[218]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706412&amp;oid=214&amp;aid=0000624593&amp;ptype=021">'미세먼지' 근본처방 빠진 재탕 대책, 효과  ...
+
+[[219]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706419&amp;oid=214&amp;aid=0000624590&amp;ptype=021">[집중취재] 눈총받는 노후 경유차, 휘발유차는 ...
+
+[[220]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706411&amp;oid=421&amp;aid=0002092970&amp;ptype=021">2019년까지 노후 경유차 21만대 폐차…영세 ...
+
+[[221]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706408&amp;oid=437&amp;aid=0000120685&amp;ptype=021">'상쾌하지 않은' 미세먼지 대책…'경유차 줄이 ...
+
+[[222]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706405&amp;oid=028&amp;aid=0002320630&amp;ptype=021">경유차 조기 폐차·오염총량제 확대…미세먼지 ' ...
+
+[[223]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706389&amp;oid=003&amp;aid=0007270259&amp;ptype=021">환경단체 "정부 미세먼지 대책 실효성 없어"</a>
+
+[[224]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706383&amp;oid=022&amp;aid=0003061896&amp;ptype=021">'고등어'로 부족했나… 뜬구름만 잡는 정부 대 ...
+
+[[225]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706377&amp;oid=011&amp;aid=0002838185&amp;ptype=021">경유차 혜택 없애고 노후火電 폐지·대체</a>
+
+[[226]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706376&amp;oid=011&amp;aid=0002838186&amp;ptype=021">미세먼지 대책, 획기적 내용없이 기존 정책 고 ...
+
+[[227]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706432&amp;oid=005&amp;aid=0000905473&amp;ptype=021">저공해 조치 없는 경유차, 수도권 못다닌다</a>
+
+[[228]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706370&amp;oid=421&amp;aid=0002092754&amp;ptype=021">3野 "정부 미세먼지 대책은 일회성 정책" 일 ...
+
+[[229]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706363&amp;oid=003&amp;aid=0007270087&amp;ptype=021">가격인상 대신 규제 강화…오락가락 경유차 정책 ...
+
+[[230]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706358&amp;oid=001&amp;aid=0008450053&amp;ptype=021">경유차 혜택 폐지… 2020년 신차 판매 30 ...
+
+[[231]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706354&amp;oid=001&amp;aid=0008449974&amp;ptype=021">미세먼지 관리 특별대책 효과는 '글쎄'</a>
+
+[[232]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706356&amp;oid=001&amp;aid=0008449889&amp;ptype=021">2018년까지 모든 고속도로 휴게소에 전기차  ...
+
+[[233]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706340&amp;oid=003&amp;aid=0007269833&amp;ptype=021">"머릿속에서 시켰다"…日대사관 앞 소녀상 망치 ...
+
+[[234]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706407&amp;oid=009&amp;aid=0003743468&amp;ptype=021">10년내 유럽 수준? 친환경車만 강조한 정부</a>
+
+[[235]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706326&amp;oid=001&amp;aid=0008449720&amp;ptype=021">&lt;그래픽&gt; 미세먼지 관리 특별대책  ...
+
+[[236]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706333&amp;oid=001&amp;aid=0008449654&amp;ptype=021">"정부의 '클린디젤' 홍보 유감"…윤성규 환경 ...
+
+[[237]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706334&amp;oid=008&amp;aid=0003690487&amp;ptype=021">"3년전 자료로 원인진단"…미세먼지대책 실효성 ...
+
+[[238]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706346&amp;oid=018&amp;aid=0003557251&amp;ptype=021">가피모 "가습기살균제 피해자 지원대책, 생색내 ...
+
+[[239]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706323&amp;oid=001&amp;aid=0008449461&amp;ptype=021">정부가 발표한 미세먼지 관리 특별대책 요지</a>
+
+[[240]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706324&amp;oid=028&amp;aid=0002320599&amp;ptype=021">미세먼지 관리 소리만 요란…'특단의 대책'은  ...
+
+[[241]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706308&amp;oid=021&amp;aid=0002277349&amp;ptype=021">대형 경유車에 저감장치 부착 등 혜택줄여 경유 ...
+
+[[242]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706306&amp;oid=366&amp;aid=0000329745&amp;ptype=021">언발에 오줌누기식 대책… 왜 이지경 됐나</a>
+
+[[243]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706330&amp;oid=001&amp;aid=0008449362&amp;ptype=021">"미세먼지 많은 날, 외기 순환모드로 운전하면 ...
+
+[[244]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706304&amp;oid=030&amp;aid=0002486118&amp;ptype=021">경유값 인상은 빠져… '차·포 뗀' 미세먼지대 ...
+
+[[245]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706303&amp;oid=016&amp;aid=0001061867&amp;ptype=021">경유쓰는 경기도 M버스 없앤다…전기차 충전시설 ...
+
+[[246]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706302&amp;oid=014&amp;aid=0003658301&amp;ptype=021">[미세먼지 대책 발표]재탕, 삼탕, 혹은 뜬구 ...
+
+[[247]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706305&amp;oid=366&amp;aid=0000329742&amp;ptype=021">경유차가 늘어난 미세먼지 주범? 전문가들 "과 ...
+
+[[248]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706298&amp;oid=277&amp;aid=0003760380&amp;ptype=021">"미세먼지 주범 잡자" 경유차 혜택 없애고 화 ...
+
+[[249]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706299&amp;oid=001&amp;aid=0008449341&amp;ptype=021">수도권 미세먼지농도 10년내 유럽 등 선진국  ...
+
+[[250]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706319&amp;oid=421&amp;aid=0002092077&amp;ptype=021">40년 지난 노후석탄발전소 10기 가동중단</a>
+
+[[251]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706309&amp;oid=421&amp;aid=0002092082&amp;ptype=021">'숯불 고깃집' 단속은 안해… 미세먼지 저감시 ...
+
+[[252]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706300&amp;oid=421&amp;aid=0002092081&amp;ptype=021">미세먼지 대책…경유차 줄이고 친환경차 150만 ...
+
+[[253]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706307&amp;oid=001&amp;aid=0008449298&amp;ptype=021">&lt;디지털스토리&gt; 서울 미세먼지, 올 ...
+
+[[254]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706247&amp;oid=001&amp;aid=0008448916&amp;ptype=021">황총리 "노후경유차 수도권 진입제한·노후화력발 ...
+
+[[255]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706325&amp;oid=079&amp;aid=0002836743&amp;ptype=021">[훅!뉴스] 환경부 경유값 인상 쿠데타, 왜  ...
+
+[[256]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706229&amp;oid=001&amp;aid=0008448768&amp;ptype=021">황총리 "노후경유차 수도권 진입제한·노후화력발 ...
+
+[[257]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706223&amp;oid=001&amp;aid=0008448673&amp;ptype=021">황총리 "미세먼지, 10년 내에 유럽 주요도시 ...
+
+[[258]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706222&amp;oid=001&amp;aid=0008448663&amp;ptype=021">황총리 "노후 석탄 화력발전소 과감하게 축소할 ...
+
+[[259]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706221&amp;oid=001&amp;aid=0008448657&amp;ptype=021">황총리 "노후 경유차 수도권 진입 제한할 계획 ...
+
+[[260]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706140&amp;oid=052&amp;aid=0000851631&amp;ptype=021">오늘 미세먼지 대책 발표…경윳값 인상은 없던  ...
+
+[[261]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706138&amp;oid=001&amp;aid=0008448250&amp;ptype=021">정부, 오늘 미세먼지 관계장관회의 개최…대책  ...
+
+[[262]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706139&amp;oid=079&amp;aid=0002836644&amp;ptype=021">경유차 희생양 만든 환경부.. 경유차 늘어도  ...
+
+[[263]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706150&amp;oid=469&amp;aid=0000146399&amp;ptype=021">3일 미세먼지 대책 발표…경유차.화력발전 감축 ...
+
+[[264]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706141&amp;oid=005&amp;aid=0000905219&amp;ptype=021">미세먼지 당정 엇박자… 지각 '처방전' 불가피 ...
+
+[[265]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706152&amp;oid=081&amp;aid=0002724831&amp;ptype=021">서민 부담에… 경유값 인상·직화구이집 규제 백 ...
+
+[[266]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706151&amp;oid=081&amp;aid=0002724855&amp;ptype=021">경보 발령 등 예년과 비슷…황사와 기간 겹쳐  ...
+
+[[267]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706146&amp;oid=020&amp;aid=0002977491&amp;ptype=021">"서민 주머니만 털어" vs "물 사먹듯 공짜 ...
+
+[[268]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706179&amp;oid=025&amp;aid=0002621556&amp;ptype=021">보령의 해가 지면 7개 굴뚝선 연기 뿜어댄다… ...
+
+[[269]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706178&amp;oid=025&amp;aid=0002621555&amp;ptype=021">화력발전소 줄이고 경유값은 안 올린다</a>
+
+[[270]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706180&amp;oid=025&amp;aid=0002621554&amp;ptype=021">40년 넘는 화력발전 과감히 없애고 LNG 전 ...
+
+[[271]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706153&amp;oid=020&amp;aid=0002977417&amp;ptype=021">火電 축소 등 미세먼지 관련 범정부 대책 3일 ...
+
+[[272]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706100&amp;oid=056&amp;aid=0010324171&amp;ptype=021">미세먼지 대책 '갈팡질팡'…불신·불안 잠재울까 ...
+
+[[273]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706102&amp;oid=056&amp;aid=0010324169&amp;ptype=021">컨트롤타워 부재…미세먼지 대책 '허둥'</a>
+
+[[274]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706093&amp;oid=437&amp;aid=0000120573&amp;ptype=021">미세먼지 첫 당정협의 '노답'…설익은 정책 나 ...
+
+[[275]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706083&amp;oid=055&amp;aid=0000415301&amp;ptype=021">혜택 줄여 경유차 감축…경유가 인상은 빠져</a>
+
+[[276]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706084&amp;oid=055&amp;aid=0000415300&amp;ptype=021">저감장치 못 다는 노후 경유차 조기 폐차 유도 ...
+
+[[277]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706076&amp;oid=001&amp;aid=0008447821&amp;ptype=021">내일 미세먼지 대책 발표…주축은 경유차·화력발 ...
+
+[[278]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706063&amp;oid=001&amp;aid=0008447539&amp;ptype=021">미세먼지 저감대책, 경유차 감축 추진…경유가격 ...
+
+[[279]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706057&amp;oid=011&amp;aid=0002837751&amp;ptype=021">미세먼지 대책 '힘 빠진 환경부'</a>
+
+[[280]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706050&amp;oid=001&amp;aid=0008447509&amp;ptype=021">정부, 내일 미세먼지 관계장관회의 개최…대책  ...
+
+[[281]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706182&amp;oid=008&amp;aid=0003690016&amp;ptype=021">화력발전이 '미세먼지' 주범? "친환경·수출  ...
+
+[[282]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706052&amp;oid=422&amp;aid=0000195059&amp;ptype=021">[날씨] 내일도 '뜨거운 여름 더위'…중부 오 ...
+
+[[283]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706039&amp;oid=009&amp;aid=0003742923&amp;ptype=021">경유값 인상·구이집 규제 '없던 일로'</a>
+
+[[284]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706041&amp;oid=015&amp;aid=0003603927&amp;ptype=021">미세먼지 주범이라며 경유값 올리자더니…경유차  ...
+
+[[285]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706038&amp;oid=009&amp;aid=0003742900&amp;ptype=021">고등어·경유값 헛발질 멈추고…오염 근원지 수술 ...
+
+[[286]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706043&amp;oid=008&amp;aid=0003689983&amp;ptype=021">미세먼지 대책 쏟아 낸 정부, 정작 원인은 " ...
+
+[[287]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24706044&amp;oid=009&amp;aid=0003742824&amp;ptype=021">억울한 고등어·삼겹살 풀어주고 경유버스·노후발 ...
+
+[[288]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705980&amp;oid=421&amp;aid=0002090436&amp;ptype=021">서울시 '경유버스 운행제한' 지자체 갈등으로  ...
+
+[[289]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705978&amp;oid=003&amp;aid=0007267534&amp;ptype=021">[경유 저감책 논란] 정부 CO₂감축 정책과  ...
+
+[[290]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705979&amp;oid=003&amp;aid=0007267509&amp;ptype=021">경유차에 '자가당착'적 공세 펴는 정부</a>
+
+[[291]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705982&amp;oid=028&amp;aid=0002320397&amp;ptype=021">미세먼지, '친환경' 말잔치에 숨겨진 진실…알 ...
+
+[[292]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705983&amp;oid=021&amp;aid=0002277186&amp;ptype=021">배기가스 파동 여파… '얼굴 못내미는' 디젤車 ...
+
+[[293]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705984&amp;oid=001&amp;aid=0008446199&amp;ptype=021">미세먼지 줄이기 위해 경유차 감축 방향으로 추 ...
+
+[[294]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705986&amp;oid=011&amp;aid=0002837478&amp;ptype=021">[어떻게 생각하십니까] 미세먼지 잡기위한 경유 ...
+
+[[295]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705985&amp;oid=011&amp;aid=0002837477&amp;ptype=021">[어떻게 생각하십니까] 미세먼지 잡기위한 경유 ...
+
+[[296]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705987&amp;oid=003&amp;aid=0007266318&amp;ptype=021">미세먼지 정부대책…불만족 75% vs 만족 1 ...
+
+[[297]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705988&amp;oid=277&amp;aid=0003759265&amp;ptype=021">'경유값 인상·자영업 규제' 미세먼지 대책서  ...
+
+[[298]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705816&amp;oid=018&amp;aid=0003556363&amp;ptype=021">당정, 미세먼지 대책서 '경유값↑·고등어구이  ...
+
+[[299]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705834&amp;oid=214&amp;aid=0000624229&amp;ptype=021">권성동 "경유가격 인상? 서민 부담 증가..  ...
+
+[[300]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705990&amp;oid=020&amp;aid=0002977270&amp;ptype=021">경유값 인상 논란? 국민 75% "정부 대책  ...
+
+[[301]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705792&amp;oid=003&amp;aid=0007265916&amp;ptype=021">새누리, 정부에 "경유가 인상 등 철회 요청" ...
+
+[[302]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705784&amp;oid=081&amp;aid=0002724527&amp;ptype=021">경유값 인상 논란, 미세먼지 대책?…정치권 " ...
+
+[[303]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705771&amp;oid=001&amp;aid=0008445147&amp;ptype=021">이석준 "미세먼지 대책 부처간 이견 좁혀지고  ...
+
+[[304]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705772&amp;oid=001&amp;aid=0008445144&amp;ptype=021">정진석 "에너지효율보다 깨끗한 공기 중시 정책 ...
+
+[[305]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705773&amp;oid=001&amp;aid=0008445060&amp;ptype=021">20대 국회 첫 당정협의, 미세먼지 종합대책  ...
+
+[[306]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705751&amp;oid=421&amp;aid=0002088835&amp;ptype=021">경유값 인상, 소비자물가에 '직격탄'…물류업계 ...
+
+[[307]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705759&amp;oid=018&amp;aid=0003556121&amp;ptype=021">부처간 다툼에 갈 곳 잃은 미세먼지 대책</a>
+
+[[308]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705758&amp;oid=079&amp;aid=0002836194&amp;ptype=021">미세먼지 주홍글씨…'경유'만 죽을 죄를 지었나 ...
+
+[[309]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705760&amp;oid=079&amp;aid=0002836184&amp;ptype=021">'깜깜이' 미세먼지 대책.. 눈감고 귀막은 환 ...
+
+[[310]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705835&amp;oid=081&amp;aid=0002724423&amp;ptype=021">與도 野도 "경유값 인상 반대"</a>
+
+[[311]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705764&amp;oid=081&amp;aid=0002724482&amp;ptype=021">"미세먼지? 43년 구워도 건강"</a>
+
+[[312]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705763&amp;oid=081&amp;aid=0002724411&amp;ptype=021">[단독]  '미세먼지 낙인' 경유차 보험료까지 ...
+
+[[313]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705755&amp;oid=020&amp;aid=0002977167&amp;ptype=021">[단독]화력발전소 연료, 석탄 대신 LNG-바 ...
+
+[[314]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705711&amp;oid=032&amp;aid=0002703751&amp;ptype=021">미세먼지 '대증요법' 경유값 인상 논란만</a>
+
+[[315]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705712&amp;oid=055&amp;aid=0000415019&amp;ptype=021">"경유가격 인상 반대" 움직임…없던 일 되나</a>
+
+[[316]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705713&amp;oid=052&amp;aid=0000850730&amp;ptype=021">경윳값 인상 논란…부담은 결국 국민 몫</a>
+
+[[317]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705706&amp;oid=056&amp;aid=0010323761&amp;ptype=021">[앵커&amp;리포트] 1차 미세먼지 치중,  ...
+
+[[318]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705700&amp;oid=449&amp;aid=0000098904&amp;ptype=021">미세 먼지 측정기, 도로 대신 공원에?</a>
+
+[[319]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705701&amp;oid=448&amp;aid=0000166676&amp;ptype=021">[판 포커스] 클린디젤 권장하더니 뒤통수…경유 ...
+
+[[320]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705676&amp;oid=055&amp;aid=0000414990&amp;ptype=021">미세먼지 '좋음' 단 3일…예보, 절반만 맞았 ...
+
+[[321]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705674&amp;oid=055&amp;aid=0000414989&amp;ptype=021">[단독] 석탄발전소 26기…충남까지 규제 확대 ...
+
+[[322]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705666&amp;oid=214&amp;aid=0000624015&amp;ptype=021">'미세먼지, 고등어가 문제' 우왕좌왕 근시안  ...
+
+[[323]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705669&amp;oid=214&amp;aid=0000624016&amp;ptype=021">미세먼지, 경유값 인상이 해결책? 종합대책 먼 ...
+
+[[324]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705665&amp;oid=057&amp;aid=0000969280&amp;ptype=021">경유차 운전자 "당황스럽고 억울"</a>
+
+[[325]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705667&amp;oid=214&amp;aid=0000624017&amp;ptype=021">'미세먼지 주범' 40년 넘은 화력발전소 가동 ...
+
+[[326]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705689&amp;oid=057&amp;aid=0000969277&amp;ptype=021">경유 값 오르나…환경개선부담금 부과 가닥</a>
+
+[[327]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705659&amp;oid=003&amp;aid=0007265387&amp;ptype=021">'경유 미세먼지 비슷'…車업계 "환경부, 제대 ...
+
+[[328]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705636&amp;oid=022&amp;aid=0003061071&amp;ptype=021">"공무원이 수치 조작"…온라인 '미세먼지 루머 ...
+
+[[329]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705710&amp;oid=028&amp;aid=0002320273&amp;ptype=021">화력발전소 늘리는 한 미세먼지 대책은 없다</a>
+
+[[330]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705718&amp;oid=081&amp;aid=0002724357&amp;ptype=021">[단독] '미세먼지 낙인' 경유차 보험료까지  ...
+
+[[331]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705672&amp;oid=277&amp;aid=0003758861&amp;ptype=021">정부, 경유값 인상 포기할 듯…與 "중장기 과 ...
+
+[[332]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705671&amp;oid=374&amp;aid=0000100509&amp;ptype=021">경유값 인상 눈치보기…세금 대신 부담금 부과로 ...
+
+[[333]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705673&amp;oid=421&amp;aid=0002088445&amp;ptype=021">여야, 경유값 인상 반대 한목소리…"서민 부담 ...
+
+[[334]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705560&amp;oid=009&amp;aid=0003742093&amp;ptype=021">10년 大計…한국과 차원이 다른 日本의 미세먼 ...
+
+[[335]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705543&amp;oid=009&amp;aid=0003742087&amp;ptype=021">미세먼지 대책 '동문서답'…휘발유값 내리자는  ...
+
+[[336]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705544&amp;oid=001&amp;aid=0008444211&amp;ptype=021">정진석 "미세먼지 대책으로 경유값 올려선 안  ...
+
+[[337]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705572&amp;oid=008&amp;aid=0003689223&amp;ptype=021">미세먼지 조급증, 환경부 좌충우돌에 타 부처  ...
+
+[[338]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705574&amp;oid=421&amp;aid=0002088108&amp;ptype=021">여야, 경유값 인상 반대 한목소리…"서민 부담 ...
+
+[[339]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705545&amp;oid=003&amp;aid=0007264915&amp;ptype=021">[단독]경유 미세먼지 배출량, 다른 연료와 ' ...
+
+[[340]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705546&amp;oid=052&amp;aid=0000850532&amp;ptype=021">경윳값 인상 놓고 부처 이견…소비자는 불만</a>
+
+[[341]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705547&amp;oid=003&amp;aid=0007264406&amp;ptype=021">최상목 기재차관 "경유값 인상이 곧 미세먼지  ...
+
+[[342]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705526&amp;oid=001&amp;aid=0008443018&amp;ptype=021">당정, 내일 미세먼지 대책 논의…기상청도 방문 ...
+
+[[343]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705562&amp;oid=016&amp;aid=0001060245&amp;ptype=021">미세먼지 경유차만 '브레이크' 걸 일 아니다</a>
+
+[[344]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705424&amp;oid=421&amp;aid=0002086729&amp;ptype=021">갈팡질팡 미세먼지 대책…목소리내는 미래부 "기 ...
+
+[[345]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705376&amp;oid=421&amp;aid=0002086724&amp;ptype=021">미세먼지 잡으려니 산업생산·소비에 '찬물'…경 ...
+
+[[346]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705375&amp;oid=421&amp;aid=0002086727&amp;ptype=021">미세먼지에 갇힌 정부…특단대책=국민부담=소비침 ...
+
+[[347]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705377&amp;oid=016&amp;aid=0001059937&amp;ptype=021">[미세먼지의 진실] 공장, 건설기계, 비산먼지 ...
+
+[[348]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705425&amp;oid=056&amp;aid=0010323484&amp;ptype=021">경윳값에 환경부담금 부과…여전한 논란</a>
+
+[[349]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705427&amp;oid=001&amp;aid=0008442067&amp;ptype=021">미세먼지 오명에 뿔난 고등어 "그래서 안 먹겠 ...
+
+[[350]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705534&amp;oid=052&amp;aid=0000850142&amp;ptype=021">반만 맞는 미세먼지 예보…국민 건강은 '셀프' ...
+
+[[351]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705589&amp;oid=079&amp;aid=0002835777&amp;ptype=021">미세먼지 연일 '나쁨'…환기는 언제, 어떻게  ...
+
+[[352]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705428&amp;oid=005&amp;aid=0000904361&amp;ptype=021">[르포] 미세먼지 '보통' '나쁨' 오락가락… ...
+
+[[353]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705527&amp;oid=020&amp;aid=0002976837&amp;ptype=021">"정부 못 믿어" 미세먼지 공포가 바꾼 일상생 ...
+
+[[354]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705432&amp;oid=437&amp;aid=0000120309&amp;ptype=021">[팩트체크] 쏟아지는 미세먼지 관련 루머 사실 ...
+
+[[355]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705433&amp;oid=055&amp;aid=0000414524&amp;ptype=021">'경윳값 인상' 눈치 보기…부처 간 떠넘기기</a>
+
+[[356]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705434&amp;oid=055&amp;aid=0000414523&amp;ptype=021">미세먼지 주범 '공사장·공장 먼지' 대책 시급 ...
+
+[[357]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705435&amp;oid=055&amp;aid=0000414522&amp;ptype=021">中 스모그세·EU 과징금…대기오염과의 전쟁</a>
+
+[[358]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705590&amp;oid=022&amp;aid=0003060591&amp;ptype=021">경유만 잡고… 화력발전소 미세먼지는 '나 몰라 ...
+
+[[359]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705563&amp;oid=009&amp;aid=0003741260&amp;ptype=021">컨트롤타워 없이 '핑퐁게임'…말잔치뿐인 미세먼 ...
+
+[[360]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705550&amp;oid=052&amp;aid=0000849623&amp;ptype=021">[신율의출발새아침] 환기 할까 말까? 실내 조 ...
+
+[[361]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705551&amp;oid=001&amp;aid=0008440318&amp;ptype=021">미세먼지 대책 핵심쟁점은 경유값·화력발전·환경 ...
+
+[[362]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705553&amp;oid=001&amp;aid=0008439836&amp;ptype=021">"미세먼지 심한데 체육수업· 체험학습" 학부모 ...
+
+[[363]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705591&amp;oid=353&amp;aid=0000024656&amp;ptype=021">한국인, 거의 매일 WHO 기준 초과 '1급  ...
+
+[[364]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705556&amp;oid=055&amp;aid=0000414343&amp;ptype=021">[카드뉴스] 미세먼지 '좋음'인데 뿌연 하늘… ...
+
+[[365]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705554&amp;oid=025&amp;aid=0002620849&amp;ptype=021">미세먼지는 연일 '나쁨' 부처 대책 조율은 ' ...
+
+[[366]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705555&amp;oid=025&amp;aid=0002620815&amp;ptype=021">경유차 미세먼지 크기, 중국발 황사의 10분의 ...
+
+[[367]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705559&amp;oid=056&amp;aid=0010322832&amp;ptype=021">배기 가스가 미세먼지로…'2차 생성' 문제</a>
+
+[[368]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705580&amp;oid=028&amp;aid=0002320002&amp;ptype=021">미세먼지가 고혈압 위험도 높인다</a>
+
+[[369]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705581&amp;oid=005&amp;aid=0000903824&amp;ptype=021">[기획] 대기업·발전소는 놔두고… 고깃집 연기 ...
+
+[[370]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705582&amp;oid=346&amp;aid=0000010397&amp;ptype=021">아직도 마스크 안 쓰세요? "미세먼지는 건강에 ...
+
+[[371]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705593&amp;oid=469&amp;aid=0000145462&amp;ptype=021">전세계 연 430만명 '주방의 매연'으로 목숨 ...
+
+[[372]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705611&amp;oid=057&amp;aid=0000967209&amp;ptype=021">미세먼지 주범 된 고등어, 아무도 안 사</a>
+
+[[373]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705603&amp;oid=016&amp;aid=0001057721&amp;ptype=021">물·녹차 마시고 콘택트 렌즈 착용도 자제하세요 ...
+
+[[374]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705601&amp;oid=016&amp;aid=0001057712&amp;ptype=021">미세먼지 속 '기관지 지키는 음식' 9가지</a>
+
+[[375]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705528&amp;oid=214&amp;aid=0000622704&amp;ptype=021">못 믿을 미세먼지 관측치, 주먹구구식 측정이  ...
+
+[[376]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705531&amp;oid=055&amp;aid=0000413002&amp;ptype=021">도심 학교 미세먼지, 공장 지역보다 더 많다</a>
+
+[[377]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705583&amp;oid=449&amp;aid=0000098253&amp;ptype=021">미세먼지의 습격…심장 노리는 '조용한 살인자' ...
+
+[[378]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705610&amp;oid=055&amp;aid=0000412505&amp;ptype=021">'하지 말라' 투성이…효과적인 미세먼지 대처법 ...
+
+[[379]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705606&amp;oid=003&amp;aid=0007252653&amp;ptype=021">미세먼지 '비상'…외출 자제하고 얼굴·손 깨끗 ...
+
+[[380]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705595&amp;oid=009&amp;aid=0003735858&amp;ptype=021">"경유차포비아 NO"…미세먼지 주범은 따로 있 ...
+
+[[381]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705584&amp;oid=030&amp;aid=0002480952&amp;ptype=021">[과학 핫이슈]보이지 않는 미세먼지의 공포</a>
+
+[[382]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705608&amp;oid=437&amp;aid=0000119336&amp;ptype=021">마스크도 소용 없어…'오존의 습격' 야외활동  ...
+
+[[383]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705535&amp;oid=056&amp;aid=0010319353&amp;ptype=021">미세먼지 예보 '부정확'…개선책 시급</a>
+
+[[384]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705537&amp;oid=056&amp;aid=0010319236&amp;ptype=021">미세먼지 예보, 오염 심한 날에 더 부정확…왜 ...
+
+[[385]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705585&amp;oid=033&amp;aid=0000032898&amp;ptype=021">[표지이야기]문제는 초미세먼지 PM2.5다</a>
+
+[[386]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705536&amp;oid=055&amp;aid=0000406949&amp;ptype=021">[한수진의 SBS 전망대] "생선 구울때 미세 ...
+
+[[387]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705539&amp;oid=469&amp;aid=0000142377&amp;ptype=021">정부가 내세운 미세먼지 3대 대책</a>
+
+[[388]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705538&amp;oid=421&amp;aid=0002044562&amp;ptype=021">미세먼지 줄인다더니…계획도 평가도 대기측정도  ...
+
+[[389]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705573&amp;oid=009&amp;aid=0003727764&amp;ptype=021">미세먼지의 오해와 진실…황사땐 중국, 여름엔  ...
+
+[[390]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705597&amp;oid=030&amp;aid=0002469448&amp;ptype=021">공기청정기는 과연 미세먼지를 제거할까</a>
+
+[[391]]
+{xml_node}
+<dt class="t">
+[1] <a href="/main/hotissue/read.nhn?mid=hot&amp;sid1=102&amp;cid=1043582&amp;iid=24705599&amp;oid=020&amp;aid=0002963293&amp;ptype=021">미세먼지 공포…전문가 "마스크? 외출 삼가는  ...
+
