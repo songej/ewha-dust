@@ -149,8 +149,8 @@ LDA.vocab <- names(LDA.table)
 LDA.doc.length <- sapply(LDA.form$documents, function(x) sum(x[2, ]))
 
 # 토픽분석 시각화 파라미터 지정
-LDA.theta <- t(apply(LDA.fit$document_sums + kAlpha, 2, function(x) x/sum(x)))
-LDA.phi <- t(apply(t(LDA.fit$topics) + kEta, 2, function(x) x/sum(x)))
+LDA.theta <- t(apply(LDA.result$document_sums + kAlpha, 2, function(x) x/sum(x)))
+LDA.phi <- t(apply(t(LDA.result$topics) + kEta, 2, function(x) x/sum(x)))
 LDA.topic <- list(phi=LDA.phi, theta=LDA.theta,
   doc.length=LDA.doc.length, vocab=LDA.vocab, term.frequency=LDA.freq)
 
